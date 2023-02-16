@@ -7,6 +7,7 @@
 | Formatters | File Extension |
 |:----------:|:--------------:|
 | [black] | `ipynb`, `py`, `pyi` |
+| [dart_style] | `dart` |
 | [prettier] | `js`, `jsx`, `ts`, `tsx` |
 | [shfmt] | `bash`, `sh` |
 | [stylua] | `lua` |
@@ -15,6 +16,7 @@
 
 | Formatters | File Extension |
 |:----------:|:--------------:|
+| [dart_style] | `dart` |
 | [eslint] | `js`, `jsx`, `ts`, `tsx` |
 | [markdownlint] | `md`, `markdown` |
 | [selene] | `lua` |
@@ -29,6 +31,7 @@
 
 <!-- Formatters Links -->
 [black]: https://github.com/psf/black
+[dart_style]: https://github.com/dart-lang/dart_style
 [prettier]: https://github.com/prettier/prettier
 [shfmt]: https://github.com/mvdan/sh
 [stylua]: https://github.com/JohnnyMorganz/StyLua
