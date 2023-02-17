@@ -4,7 +4,7 @@
 
 ## Formatters
 
-| Formatters | File Extension |
+| Tool | File Extensions |
 |:----------:|:--------------:|
 | [black] | `ipynb`, `py`, `pyi` |
 | [dart_style] | `dart` |
@@ -14,14 +14,14 @@
 
 ## Linters
 
-| Formatters | File Extension |
+| Tool | File Extensions |
 |:----------:|:--------------:|
 | [dart_style] | `dart` |
 | [eslint] | `js`, `jsx`, `ts`, `tsx` |
 | [markdownlint] | `md`, `markdown` |
 | [selene] | `lua` |
 | [shellcheck] | `bash`, `sh` |
-| [stylelint] | `css`, `html`, `js`, `less`, `md`, <br> `markdown` `sass`, `scss` |
+| [stylelint] | `css`, `html`, `js`, `less`, `md`, `markdown` `sass`, `scss` |
 | [vint] | `vim` |
 | [yamllint] | `yml`, `yaml` |
 
