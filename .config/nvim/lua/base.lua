@@ -21,10 +21,7 @@ opt.smartcase = true
 opt.showmode = false
 
 -- set an 80 column border
-opt.cc = 80
-
--- using system clipboard
-opt.clipbaord = "unnamedplus"
+opt.colorcolumn = '80'
 
 -- tabs and spaces handling
 opt.expandtab = true -- converts tabs to white space
