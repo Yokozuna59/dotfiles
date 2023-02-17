@@ -9,6 +9,7 @@
 | [black] | `ipynb`, `py`, `pyi` |
 | [dart_style] | `dart` |
 | [prettier] | `js`, `jsx`, `ts`, `tsx` |
+| [rustfmt] | `rs` |
 | [shfmt] | `bash`, `sh` |
 | [stylua] | `lua` |
 
@@ -19,6 +20,7 @@
 | [dart_style] | `dart` |
 | [eslint] | `js`, `jsx`, `ts`, `tsx` |
 | [markdownlint] | `md`, `markdown` |
+| [rust-clippy] | `rs` |
 | [selene] | `lua` |
 | [shellcheck] | `bash`, `sh` |
 | [stylelint] | `css`, `html`, `js`, `less`, `md`, `markdown` `sass`, `scss` |
@@ -33,12 +35,14 @@
 [black]: https://github.com/psf/black
 [dart_style]: https://github.com/dart-lang/dart_style
 [prettier]: https://github.com/prettier/prettier
+[rustfmt]: https://github.com/rust-lang/rustfmt
 [shfmt]: https://github.com/mvdan/sh
 [stylua]: https://github.com/JohnnyMorganz/StyLua
 
 <!-- Linters Links -->
 [eslint]: https://github.com/eslint/eslint
 [markdownlint]: https://github.com/DavidAnson/markdownlint
+[rust-clippy]: https://github.com/rust-lang/rust-clippy
 [selene]: https://github.com/Kampfkarren/selene
 [shellcheck]: https://github.com/koalaman/shellcheck
 [stylelint]: https://github.com/stylelint/stylelint
