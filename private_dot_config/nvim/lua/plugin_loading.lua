@@ -58,7 +58,7 @@ packer.startup(function(use)
             opt = true,
         },
         config = function()
-            require("plugin.lauline")
+    --         require("plugin.lauline")
         end,
     })
 
