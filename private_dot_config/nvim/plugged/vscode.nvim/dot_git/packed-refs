@@ -1,7 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-0487db40d959271000fdba44072a074d0e77a4a1 refs/remotes/origin/dev
-5dd1c71bd4454b81a0b86b9446d44c75a579ef40 refs/remotes/origin/dev-main
-64b64dcddd964781dbb5ad56c4b3df8fe4400fb4 refs/remotes/origin/lualine-theme-fix
-db9ee339b5556aa832ca58871fd18f9467a18520 refs/remotes/origin/main
-7f74bb6d09bd1727afcd78de46d85e9bb1fe0bb4 refs/remotes/origin/revert-60-main
-d0c36ec7d7d1757dc96174a6520ce32c0c881782 refs/remotes/origin/revert-91-bugfix/issue-90
